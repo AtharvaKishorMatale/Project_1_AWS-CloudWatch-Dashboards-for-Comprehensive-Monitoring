@@ -1,7 +1,5 @@
 # Project_1_AWS-CloudWatch-Dashboards-for-Comprehensive-Monitoring
 
-# Project 1: AWS CloudWatch Dashboards for Monitoring
-
 ## Project Title
 **AWS CloudWatch Dashboards for Billing, Logs, Network Performance, and Security & Compliance Monitoring**
 
